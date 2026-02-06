@@ -1,5 +1,5 @@
----
-# 🐧 New Linux Install Scripts
+
+## 🐧 New Linux Install Scripts
 
 A collection of **Bash scripts** designed to automate post-installation setup on a fresh Linux system.
 
@@ -10,7 +10,7 @@ This repository focuses on quickly installing essential software using:
 * Custom install scripts
 * A **work-in-progress GUI installer**
 
-> ⚠️ **USE WITH CAUTION** — These scripts make system-level changes and install packages automatically. ([GitHub][1])
+> ⚠️ **USE WITH CAUTION** — These scripts make system-level changes and install packages automatically. 
 
 ---
 
